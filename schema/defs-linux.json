@@ -292,7 +292,8 @@
                 "uts",
                 "ipc",
                 "user",
-                "cgroup"
+                "cgroup",
+                "time"
             ]
         },
         "NamespaceReference": {
